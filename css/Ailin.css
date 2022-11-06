@@ -13,6 +13,11 @@ header{
 	padding-bottom: 50px;
 }
 
+span{
+	color: white;
+}
+
+
 header h1{
 	color: white;
 }
@@ -28,12 +33,10 @@ main{
 	max-width: 800px;
 	margin: 0 auto;
 	padding: 0 20px;
-
 }
 
 main img{
 	max-width: 100%;
-
 }
 
 h2{
@@ -63,5 +66,4 @@ footer p{
 p.caption{
 	color: lightgrey;
 	font-style: italic;
-	padding-top: -30px;
 }
