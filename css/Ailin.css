@@ -2,6 +2,7 @@ body{
 margin: 0;
 font-size: 20px;
 line-height: 30px;
+text-align: justify ;
 }
 
 
@@ -32,6 +33,7 @@ main{
 
 main img{
 	max-width: 100%;
+
 }
 
 h2{
@@ -61,4 +63,5 @@ footer p{
 p.caption{
 	color: lightgrey;
 	font-style: italic;
+	padding-top: -30px;
 }
