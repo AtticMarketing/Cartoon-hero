@@ -1,0 +1,62 @@
+Body{
+	background-color: WhiteSmoke;
+	margin-left: 30px;
+	margin-right: 20px;
+	text-align: justify;
+}
+
+p{
+	font-size: 20px;
+	font: arial;
+}
+
+header a:link {
+  color: white;
+  padding: 10px 20px;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+}
+
+header a:link, a:visited {
+  color: black;
+  padding: 10px 20px;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+}
+
+header a:hover, a:active {
+  color:  Maroon;
+text-decoration: underline;
+}
+
+.wow:hover{
+color: darkred;
+font-size: 100px;
+text-decoration: underline;
+}
+
+header{
+	text-align: center;
+	font-size: 40px;
+	margin-top: 20px;
+	color: SaddleBrown;
+}
+
+h1{
+	text-align: right;
+	margin-right: 20px;
+}
+
+.bougie{
+	display: none;
+
+}
+
+h2:hover + .bougie{
+color: darkred;
+font-size: 50px;
+text-align: center;
+display: block;
+}
